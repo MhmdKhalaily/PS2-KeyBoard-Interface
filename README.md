@@ -1,0 +1,2 @@
+# PS2-KeyBoard-Interface
+Purpose: 1- Understand how computers communicate with peripherals. 2- Design the PS2 Interface using VHDL. Theory: The PS2 interface was introduced by IBM in 1987 for connecting computers to keyboard and mouse devices. Even though it is now giving place to the USB (universal serial bus) interface, its study helps understand how computers communicate with peripherals, also allowing interesting designs to be developed in the lab section
