@@ -11,4 +11,6 @@ capable of reading the numeric (0, 1, ... , 9) keyboard keys and display
 them on the SSD when such keys are pressed. If any other keyboard key
 is pressed, then "e" (error) must be displayed. On the other hand, if the
 error occurs in the read key (that is, if the start bit is not '0', the stop bit is not ‘1’ , or if the parity is not odd), then “E” must be displayed.
-![ps2_keyboard_interface](https://user-images.githubusercontent.com/110431487/187067142-0f7e7402-f9c7-45a6-bd2c-5e736698715b.jpg)
+
+![interface](https://user-images.githubusercontent.com/110431487/200134120-bf9189be-e934-4612-9d72-324737c52146.jpg)
+
